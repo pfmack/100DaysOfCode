@@ -1,0 +1,136 @@
+﻿/***** CSS For Holstee Manifesto ******/
+
+/****** Main Body Styles *******/
+body {
+  background: #fff;
+  margin: auto;
+}
+
+p, h1 {
+  color: #262626
+}
+
+/******* Header Styles *******/
+
+h1 {
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+}
+
+
+
+/***** container Styles *****/
+
+#main-container {
+  margin: auto;
+  background-color: hsl(39,77%,89%);
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+  flex-wrap: wrap;
+  width: 50%;
+}
+
+#first-container {
+  display: flex;
+  background-color: #f16059;
+  width: 100%;
+}
+
+#second-container {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+#third-container {
+  display: flex;
+  width: 100%;
+}
+
+#fourth-container {
+  display: flex;
+  justify-content: center;
+  background-color: #66c1e5;
+  width: 100%;
+}
+
+#fifth-container {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  
+}
+
+
+
+/***** Box Styles ******/
+.first-box {
+  background-color: #f16059;
+  padding: 5%;
+  width: 78%;
+}
+
+.second-box {
+    background-color: #4357ad;
+    padding: 5%;
+    
+}
+
+.third-box {
+  background-color: #66c1e5;
+  padding: 5%;
+}
+
+.fourth-box {
+  background-color: #4357ad;
+  padding: 5%;
+}
+
+.fifth-box {
+  background-color: #509eab;
+  padding: 5%;
+ }
+
+.sixth-box {
+  padding: 5%;
+}
+
+.seventh-box {
+  padding: 5%;
+  background-color: #509eab;
+  width: 100%;
+}
+
+.eighth-box { 
+  padding: 5%;
+  background-color: #f16059;
+  width: 100%;  
+}
+
+/******** Text Styles *******/
+
+.large-box {
+  font-size: 20px;
+}
+
+.emphasized-text {
+  font-family: 'Playfair Display', serif;
+  color: hsl(39,79%,89%);
+}
+
+.small-box, .second-quote {
+  font-family: 'Lato', sans-serif;
+}
+
+.small-box {
+  margin-top: 21px;
+  margin-left: 10px;
+  font-size: 20px;
+}
+
+span.emphasized-text{
+  font-size: 20px;
+  
+}
+
