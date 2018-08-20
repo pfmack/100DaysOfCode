@@ -17,3 +17,11 @@ Day 7 - of #100DaysOfCode plan to work through more Free Code Camp JavaScript ex
 
 Day8 - of #100DaysOfCode worked on the hope the small to do list in JavaScript I started on Day 7. Still reading Eloquent JavaScript.
 
+Day 9 - of #100DaysOfCode continued working on the small to do list in JavasSript I started on Day 7 with Gordon Zhu Practical JavaScript course. This version of the app has a user interface.
+
+Day 10 - of #100DaysOfCode I finished version 9 of my JavaScript to do list app completed. 
+
+Day 11 - of #100DaysOfCode I finished the To Do List app. I plan to revisit and design a more user friendly UI.
+
+Day 12 - of #100DaysOfCode I've focused on my new design for my portfolio built in Bootstrap 4 coding it from a Photoshop design comp I created. 
+
