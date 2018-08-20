@@ -23,5 +23,5 @@ Day 10 - of #100DaysOfCode I finished version 9 of my JavaScript to do list app 
 
 Day 11 - of #100DaysOfCode I finished the To Do List app. I plan to revisit and design a more user friendly UI.
 
-Day 12 - of #100DaysOfCode I've focused on my new design for my portfolio built in Bootstrap 4 coding it from a Photoshop design comp I created. 
+Day 12 - of #100DaysOfCode I've focused on my new design for my portfolio built in Bootstrap 4 coding it from a Photoshop design comp I created. I included a jQuery transition on my navigation bar and some CSS3 animations.
 
