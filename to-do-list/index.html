@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>My To Do List</title>
+</head>
+<body>
+	<main>
+	<section>
+		<div>
+		<button onClick="handlers.displayToDoList()">Display My To Do List</button>
+		<button onClick="handlers.toggleAll()">Select All</button>
+			</div>
+			<div>
+		  <button onClick="handlers.addToDo()">Add</button>
+		  <input id="newToDoTextInput" type="text" placeholder="Add to do item">
+		</div>
+		<div>
+		  <button onClick="handlers.changeToDoList()">Change</button>
+		  <input id="changeToDoPositionInput" type="number">
+		  <input id="changeToDoTextInput" placeholder="new text" type="text">
+		</div>
+		<div>
+		  <button onClick="handlers.toggleCompleted()">Completed Tasks</button>
+		  <input id="toggleCompletedPositionInput" type="number">
+		</div>
+		<ul>
+		</ul>
+	</section>
+	</main>
+	 <script src="mytodolist.js"></script>
+</body>
+</html>
