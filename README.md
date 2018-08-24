@@ -26,3 +26,12 @@ Day 11 - of #100DaysOfCode I finished the To Do List app. I plan to revisit and 
 Day 12 - of #100DaysOfCode I've focused on my new design for my portfolio built in Bootstrap 4 coding it from a Photoshop design comp I created. 
 
 Day 13 - of #100DaysOfCode I got my new portfolio up and live. I need to work on some of the media queries. I included a jQuery transition on my navigation bar and some CSS3 animations.
+
+
+Day 14 - #100DaysOfCode was more practice with JavaScript exercises.
+
+Day 15 - #100DaysOfCode continuing with JavaScript exercises and Eloquent Javascript. I also worked on a new design comp in Photoshop (not technically coding but hey, I did it). Enjoying the journey.
+
+Day 16 of #100DaysOfCode - I refactored the Magic 8 Ball code with some jQuery (which isn't "cool" anymore???). It now has a user interface thanks to Skillcrush that includes a onClick event and prompt for a user question input.
+
+Day 17 - #100DaysOfCode I'm starting the Complete JavaScript Course 2018 on Udemy. Working from books doesn't seem to be the way I learn best and I'm finding I don't know what to do with what I've learned past basic #javascript syntax. So, I'm trying this.  
