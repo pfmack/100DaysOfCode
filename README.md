@@ -34,4 +34,4 @@ Day 15 - #100DaysOfCode continuing with JavaScript exercises and Eloquent Javasc
 
 Day 16 of #100DaysOfCode - I refactored the Magic 8 Ball code with some jQuery (which isn't "cool" anymore???). It now has a user interface thanks to Skillcrush that includes a onClick event and prompt for a user question input.
 
-Day 17 - #100DaysOfCode I'm starting the Complete JavaScript Course 2018 on Udemy. Working from books doesn't seem to be the way I learn best and I'm finding I don't know what to do with what I've learned past basic #javascript syntax. So, I'm trying this.  
+Day 17 - #100DaysOfCode I'm starting the Complete JavaScript Course 2018 on Udemy. Working from books doesn't seem to be the way I learn best and I'm finding I don't know what to do with what I've learned past basic #javascript syntax. So, I'm going to try this course.  
