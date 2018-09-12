@@ -35,3 +35,33 @@ Day 15 - #100DaysOfCode continuing with JavaScript exercises and Eloquent Javasc
 Day 16 of #100DaysOfCode - I refactored the Magic 8 Ball code with some jQuery (which isn't "cool" anymore???). It now has a user interface thanks to Skillcrush that includes a onClick event and prompt for a user question input.
 
 Day 17 - #100DaysOfCode I'm starting the Complete JavaScript Course 2018 on Udemy. Working from books doesn't seem to be the way I learn best and I'm finding I don't know what to do with what I've learned past basic #javascript syntax. So, I'm going to try this course.  
+
+Day 18  - #100DaysOfCode, began section two of Complete JavaScript Course.  
+
+Day 19 - #100DaysOfCode, I completed the Basic JavaScript section on Free Code Camp!!!
+
+Day 20 - #100DaysofCode, I plan to finish section 2 of the Complete JavaScript Course on Udemy. It's really helping me.  
+
+Days 21 - #100DaysOfCode, still working on section 2 of the Complete JavaScript Course on Udemy. 
+
+Day 22 - #100DaysofCode, I understand objects and methods much better now. Wrapping up loops and iterations. Started using Codeanywhere so I can work during my lunch break. 
+
+Days 23, 24 & 25 - #100DayOfCode I finished section 2 of the Complete JavaScript Course on Udemy. 
+
+Day 26 - #100DaysOfCode, I worked through section 3 of the Complete JavaScript Course on Udemy (execution stack, scope chain, and the this keyword). Also applied for the #freeCodeCamp JAMstack Hackathon.
+
+Day 27 & 28 - #100DaysOfCode, I coded up the HTML, CSS, and media queries structure for my new portfolio ( I wasn't happy with the previous one).
+
+Day 29 - #100DaysOfCode, started section 4 of the Complete JavaScript Course. 
+
+Day 30 - #100DaysOfCode, continued to work on coding a dice rolling game project with Complete JavaScript Course and finish up media queries for my portfolio redesign. 
+
+Day 31 - #100DaysOfCode, debugged code from dice rolling game (pig game) and portfolio media queries. 
+
+Day 32 - #100DaysOfCode, finally got the portfolio website up: http://www.preciousmack.com. It is still a work in progress but, overall I'm happy with this iteration. I have a working #php form, CSS transitions, and a sticky nav built with JavaScript.
+
+Day 33 - #100DaysOfcode, I finished the Pig Game tutorial with @jonasschmedtman Complete JavaScript Course. This really is a great course and I feel like I'm learning a lot and picking up some serious problem solving skills.
+
+Day 34 - #100DaysOfCode, I added normalize.css to my portfolio site to fix some cross browser issues and worked through some ES6 JavaScript tutorials on Free Code Camp and Codecademy. 
+
+Day 35 - #100DaysOfCode recap, began an awesome full stack project generously created by @stephenmf. Already learning a lot and looking forward to completing more assignments.
